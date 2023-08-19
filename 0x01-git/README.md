@@ -1,1 +1,2 @@
-Find project info here
+My First readme. Tips
+Updateeeeeeeee
